@@ -1,0 +1,14 @@
+name: examen
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jupyter
+  - pandas
+  - numpy
+  - scipy
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - tqdm
