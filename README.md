@@ -1,4 +1,4 @@
-# Exam Samuel Demin DataScience Syntra
+# Exams Samuel Demin Data Science Syntra
 
 This project contains a Jupyter notebook that provides the code and solutions for my exams on June 4th (Part I) and June 11th (Part II), Data Science Syntra. 
 
