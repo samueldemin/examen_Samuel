@@ -23,9 +23,9 @@ A step by step explanation to get the provided notebook and environment running:
 4. Activate the new environment: `conda activate examen`
 
 ## Usage
-Part 1: Open the Jupyter notebook: `jupyter notebook notebooks/examen_Samuel_Demin_deel1.ipynb`
+Part 1: Open the Jupyter notebook: `jupyter notebook Notebooks/examen_Samuel_Demin_deel1.ipynb`
 
-Part 2: Open the Jupyter notebook: `jupyter notebook notebooks/examen_Samuel_Demin_deel2.ipynb`
+Part 2: Open the Jupyter notebook: `jupyter notebook Notebooks/examen_Samuel_Demin_deel2.ipynb`
 
 This will open the Jupyter Notebook. From there, you can open the notebook and run all cells to load and preprocess the data. 
 The assignment questions and answers are provided within the notebook.
