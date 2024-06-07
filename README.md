@@ -24,6 +24,7 @@ A step by step explanation to get the provided notebook and environment running:
 
 ## Usage
 Part 1: Open the Jupyter notebook: `jupyter notebook notebooks/examen_Samuel_Demin_deel1.ipynb`
+
 Part 2: Open the Jupyter notebook: `jupyter notebook notebooks/examen_Samuel_Demin_deel2.ipynb`
 
 This will open the Jupyter Notebook. From there, you can open the notebook and run all cells to load and preprocess the data. 
